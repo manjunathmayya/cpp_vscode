@@ -74,6 +74,7 @@ int main()
     {
         stack.push(index);
     }
+    
     stack.pop();
     stack.pop();
     cout << "Printing stack   : ";   stack.print();                    cout << endl;
